@@ -1,6 +1,6 @@
 ### Hi there, I'm [Irving!](https://irvv17.github.io) 👋
 
-Hi, I'm Irving Caamal,web developer from Mexico.
+Hi, I'm Irving Caamal, Full-Stack from Mexico.
 
 - 🔭 I’m currently working on Javascript and PHP.
 - 🌱 I’m currently learning Python and Go
