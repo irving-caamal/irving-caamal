@@ -2,7 +2,7 @@
 
 Hi, I'm Irving Caamal,web developer from Mexico.
 
-- 🔭 I’m currently working on Javascript
+- 🔭 I’m currently working on Javascript and PHP.
 - 🌱 I’m currently learning Python and Go
 - 📫 How to reach me: irvv.17@gmail.com
 - ⚡ Fun fact: I'm drummer
