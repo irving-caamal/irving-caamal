@@ -1,8 +1,9 @@
 ### Hi there, I'm [Irving!](https://irvv17.github.io) 👋
 
-Hi, I'm Irving Caamal, Full-Stack Developer from Cancún, Mexico.
+Hi, I'm Irving Caamal, Full-Stack Web Developer from Cancún, Mexico.
 
-- 🔭 I’m currently working on Javascript and PHP.
+- 🔭 I’m currently working on Javascript, Typescript and PHP.
+- I really like to play with new tech.
 - 🌱 I’m currently learning Python and Go
 - 📫 How to reach me: irvv.17@gmail.com
 - ⚡ Fun fact: I'm drummer
